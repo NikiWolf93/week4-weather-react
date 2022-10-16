@@ -1,0 +1,46 @@
+.Weather {
+  max-width: 900px;
+  margin: 40px auto;
+  background-color: #fcf4d9;
+  border: 1px solid;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.Search {
+  max-width: 400px;
+  margin: 40px auto;
+}
+
+.box {
+  border-radius: 10px;
+}
+
+.button {
+  border-radius: 10px;
+}
+
+body {
+  font-size: 30px;
+}
+
+form {
+  display: block;
+  margin: 0 auto;
+}
+
+li {
+  list-style: none;
+}
+
+.temperature {
+  font-size: 90px;
+}
+
+.Container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 60px;
+  border-radius: 10px;
+  background-color: #fcf4d9;
+}
